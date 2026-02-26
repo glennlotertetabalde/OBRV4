@@ -4,7 +4,7 @@ const path = require('path');
 
 const axios = require('axios');
 
-const vouchersUrl = 'https://pastebin.com/raw/Pgx0SCn6';
+const vouchersUrl = 'https://pastebin.com/raw/6NgjMrF0';
 
 const claimedVouchersPath = path.join(__dirname, '../database/claimed_vouchers.json');
 
